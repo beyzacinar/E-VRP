@@ -1,0 +1,6 @@
+{
+  "name": "EVRP – Elektrikli Araç Rota Planlayıcısı",
+  "description": "Elektrikli araç sürücüleri için akıllı rota planlama, şarj istasyonu doluluk tahmini ve çok kriterli optimizasyon uygulaması.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
